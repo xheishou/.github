@@ -1,4 +1,4 @@
-![LOGO]([https://bbs.x10001.com/wp-content/uploads/2022/12/logo.png]#pic_center)
+![LOGO]([https://avatars.githubusercontent.com/u/143377897?s=400&u=502eba25d9fcd42f87275c7dcdae2c55e699b1ad&v=4]#pic_center)
 # X黑手
 
 官网：https://www.xheishou.com
