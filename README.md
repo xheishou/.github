@@ -1,8 +1,7 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/143377897?s=400&u=502eba25d9fcd42f87275c7dcdae2c55e699b1ad&v=4" alt="LOGO">
+  <h1>X黑手</h1>
 </div>
-
-# X黑手
 
 官网：https://www.xheishou.com
 
